@@ -1,6 +1,7 @@
 ### README.MD
 
-### --- REPOSITORY NTABackend HAS TO BE USED IN COMBINATION WITH THIS ONE --- ###
+### --- REPOSITORY NTABack HAS TO BE USED IN COMBINATION WITH THIS ONE --- ###
+### --- CHECKOUT [https://github.com/JS1209/NTABack] --- ###
 
 First generate an API key and clientID at the hellosign website (this is an paid API!). In ./src/config/secrets.js type "export const clientId = YOUR_CLIENT_ID;" (case sensitive). This file is included in .gitignore
 
